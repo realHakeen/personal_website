@@ -6,6 +6,12 @@ import { ArrowUpRight } from 'lucide-react'
 
 const articles = [
   {
+    date: '2025.10.30',
+    title: 'Deep Dive of Ondo Finance',
+    category: 'Investment Thesis',
+    link: 'https://tokeninsight.com/en/research/reports/deep-dive-of-ondo-finance',
+  },
+  {
     date: '2025.06.02',
     title: '基于策略的合成稳定币，用利率搭建的金融乐高',
     category: 'Crypto',
@@ -28,12 +34,6 @@ const articles = [
     title: 'UniswapV2代码详解',
     category: 'Technology',
     link: 'https://medium.com/@hakeen/uniswapv2%E4%BB%A3%E7%A0%81%E8%AF%A6%E8%A7%A3-d3c847682c91',
-  },
-  {
-    date: '2024.08.12',
-    title: 'Building in Public: The Ultimate Growth Hack',
-    category: 'Essay',
-    link: '#',
   },
 ]
 

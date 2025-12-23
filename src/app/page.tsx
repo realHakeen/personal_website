@@ -1,6 +1,6 @@
 'use client'
 
-import { Navbar, Footer } from '@/components/layout'
+import { Footer } from '@/components/layout'
 import { ProfileCard } from '@/components/cards'
 import { Hero, Roadmap, Projects, Writings, Bookshelf } from '@/components/sections'
 
@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <>
       {/* Top Navigation */}
-      <Navbar />
+      {/* <Navbar /> */}
 
       {/* Main Layout: Two Columns */}
       <div className="min-h-screen">
