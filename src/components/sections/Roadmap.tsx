@@ -6,14 +6,6 @@ import { Briefcase, GraduationCap, Rocket, Building2 } from 'lucide-react'
 
 const experiences = [
   {
-    year: '2025 - Present',
-    role: 'Incubator',
-    company: 'BloFin',
-    description: 'Building the next generation of exchange and infrastructure.',
-    icon: Rocket,
-    color: 'bg-accent-lime',
-  },
-  {
     year: '2024 - 2025',
     role: 'Senior Investor',
     company: 'Gate Ventures',
